@@ -1,5 +1,12 @@
 # Regulation server
 
+Uses Berkeley's Simulation Research Group tools.
+
+* See : https://simulationresearch.lbl.gov/
+* See : https://www.energyplus.net/
+* See : https://simulationresearch.lbl.gov/bcvtb
+
+
 # Using
 
 * Debian 7.5
