@@ -1,0 +1,6 @@
+nose
+pymongo >= 2.4.1
+flask-restful >= 0.2.12
+goose-extractor >= 1.0.12
+BeautifulSoup
+html2text
